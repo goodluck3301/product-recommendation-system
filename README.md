@@ -12,9 +12,17 @@ The recommendation system is designed in 3 parts based on the business context:
 ___
 ### Small piece from code
 
-```python
+```py
+correlation_product_ID = correlation_matrix[product_ID]
+
+i = '6117043058'
+
+product_names = list(X.index)
+product_ID = product_names.index(i)
+     
 Recommend = list(X.index[correlation_product_ID > 0.90])
 Recommend[0:9]
+Recommend.remove(i)
 ```
 ```
 Output: 
