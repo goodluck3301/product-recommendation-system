@@ -21,8 +21,8 @@ product_names = list(X.index)
 product_ID = product_names.index(i)
      
 Recommend = list(X.index[correlation_product_ID > 0.90])
-Recommend[0:9]
 Recommend.remove(i)
+Recommend[0:9]
 ```
 ```
 Output: 
