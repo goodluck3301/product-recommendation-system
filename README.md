@@ -9,7 +9,7 @@ The recommendation system is designed in 3 parts based on the business context:
 - Recommendation system part II: Model-based collaborative filtering system based on customer's purchase history and ratings provided by other users who bought items similar items
 
 - Recommendation system part III: When a business is setting up its e-commerce website for the first time withou any product rating
-
+___
 ### Small piece from code
 
 ```python
@@ -29,7 +29,7 @@ Output:
  '1304482596',
  '1304482634']
 ```
-
+___
 ### Datasets
 - [Amazon product review dataset](https://www.kaggle.com/skillsmuggler/amazon-ratings)
 - [Dataset: Home Depot's dataset with product dataset](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip)
