@@ -12,5 +12,5 @@ The recommendation system is designed in 3 parts based on the business context:
 
 
 ### Datasets
-- [Amazon product review dataset](https://drive.google.com/file/d/1T-ftWe8P4BrGtuv4JTr3y0e7eMNfU5Nr/view?usp=sharing) 
+- [Amazon product review dataset](https://www.kaggle.com/skillsmuggler/amazon-ratings)
 - [Dataset: Home Depot's dataset with product dataset](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip)
